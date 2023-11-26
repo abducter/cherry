@@ -1,2 +1,2 @@
 # cherry
-My first repo on GitHub
+Cherry is my first git project
